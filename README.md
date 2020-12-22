@@ -1,9 +1,7 @@
-# Python_Learning
+# Python_Learning&Using
 Python Learning &amp; Using
 
-## Python_Learning&Using
-
- <!--Python learning and using-->
+###### *Python learning and using
 
 ## File directory
 
@@ -14,5 +12,7 @@ Python Learning &amp; Using
 ## Annotation
 
 - Each class takes half an hour or an hour.
-- <!--详细目录等后续补充-->
+
+- ###### *Introduction of follow-up supplements
+
 
